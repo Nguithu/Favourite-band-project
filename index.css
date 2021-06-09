@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 10px;
+  background-color: purple;
+  color: lime;
+}
+
+
+
+h1 {
+  font: italic bold 2em 'monton', serif;
+  text-align: center;
+
+  
+}
+
+image{
+  height: 200px;
+  width: 300px;
+}
+
+
+p{
+  font-size: 24px;
+  font-style: italic;
+  font-family: fantasy;
+}
+.norman{
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  
+
+}
+#hero{display: flex;
+  justify-content: center;
+}
+h2{
+  color: aliceblue;
+  text-align: right;
+}
